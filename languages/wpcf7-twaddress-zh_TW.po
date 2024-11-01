@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Contact Form 7 Taiwan Address Selector Extension\n"
+"POT-Creation-Date: 2020-10-02 01:58+0800\n"
+"PO-Revision-Date: 2020-10-02 02:02+0800\n"
+"Language-Team: Huanyi Chuang <huanyi.chuang@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcf7-twaddress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Huanyi Chuang <huanyi.chuang@gmail.com>\n"
+"Language: zh_TW\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: wpcf7-twaddress.php:144
+msgid "address"
+msgstr "地址"
+
+#: wpcf7-twaddress.php:151
+#, php-format
+msgid ""
+"Generate a form-tag for an address with Taiwan zipcode. For more details, "
+"see %s."
+msgstr "為台灣的郵遞區號及地址產生表單標籤。如需進一步暸解，請參閱〈%s〉。"
+
+#: wpcf7-twaddress.php:153
+msgid "https://github.com/huanyichuang/wpcf7-twaddress"
+msgstr "https://github.com/huanyichuang/wpcf7-twaddress"
+
+#: wpcf7-twaddress.php:153
+msgid "my GitHub repository"
+msgstr "我的 GitHub 儲存庫"
+
+#: wpcf7-twaddress.php:162 wpcf7-twaddress.php:165
+msgid "Field type"
+msgstr "欄位類型"
+
+#: wpcf7-twaddress.php:166
+msgid "Required field"
+msgstr "必填欄位"
+
+#: wpcf7-twaddress.php:172
+msgid "Name"
+msgstr "名稱"
+
+#: wpcf7-twaddress.php:177 wpcf7-twaddress.php:180
+msgid "Options"
+msgstr "選項"
+
+#: wpcf7-twaddress.php:181
+msgid "Hide zipcodes"
+msgstr "隱藏郵遞區號"
+
+#: wpcf7-twaddress.php:182
+msgid "Hide full address"
+msgstr "隱藏完整地址"
+
+#: wpcf7-twaddress.php:188
+msgid "Id attribute"
+msgstr "ID 屬性"
+
+#: wpcf7-twaddress.php:193
+msgid "Class attribute"
+msgstr "類別屬性"
+
+#: wpcf7-twaddress.php:206
+msgid "Insert Tag"
+msgstr "插入標籤"
+
+#: wpcf7-twaddress.php:211
+#, php-format
+msgid ""
+"To use the value input through this field in a mail field, you need to "
+"insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr ""
+"要在郵件中導入這個表單欄位的值，必須在 [郵件] 設定頁中將郵件標籤 %s 填入對"
+"應的郵件欄位。"
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Form 7 Taiwan Address Selector Extension"
+msgstr "Contact Form 7 Taiwan Address Selector Extension"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://huanyichuang.com/"
+msgstr "https://huanyichuang.com/"
+
+#. Description of the plugin/theme
+msgid "To make a new tag for Contact Form 7 to add Taiwan address."
+msgstr "讓 Contact Form 7 支援台灣地址。"
+
+#. Author of the plugin/theme
+msgid "Huanyi Chuang"
+msgstr "Huanyi Chuang"

@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Taiwan Address Selector Extension for Contact Form 7\n"
+"POT-Creation-Date: 2021-02-07 15:40+0800\n"
+"PO-Revision-Date: 2021-02-07 15:40+0800\n"
+"Last-Translator: Huanyi Chuang <huanyi.chuang@gmail.com>\n"
+"Language-Team: Huanyi Chuang <huanyi.chuang@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcf7-twaddress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#. translators: warning message when Contact Form 7 is not activated.
+#: wpcf7-twaddress.php:31
+msgid ""
+"is an extension for Contact Form 7. You must install Contact Form 7 before "
+"activating this extension."
+msgstr ""
+
+#: wpcf7-twaddress.php:202
+msgid "address"
+msgstr ""
+
+#: wpcf7-twaddress.php:209
+#, php-format
+msgid ""
+"Generate a form-tag for an address with Taiwan zipcode. For more details, "
+"see %s."
+msgstr ""
+
+#: wpcf7-twaddress.php:211
+msgid "https://github.com/huanyichuang/wpcf7-twaddress"
+msgstr ""
+
+#: wpcf7-twaddress.php:211
+msgid "my GitHub repository"
+msgstr ""
+
+#: wpcf7-twaddress.php:220 wpcf7-twaddress.php:223
+msgid "Field type"
+msgstr ""
+
+#: wpcf7-twaddress.php:224
+msgid "Required field"
+msgstr ""
+
+#: wpcf7-twaddress.php:230
+msgid "Name"
+msgstr ""
+
+#: wpcf7-twaddress.php:235 wpcf7-twaddress.php:238
+msgid "Options"
+msgstr ""
+
+#: wpcf7-twaddress.php:239
+msgid "Hide zipcodes"
+msgstr ""
+
+#: wpcf7-twaddress.php:240
+msgid "Hide districts"
+msgstr ""
+
+#: wpcf7-twaddress.php:241
+msgid "Hide address details"
+msgstr ""
+
+#: wpcf7-twaddress.php:242
+msgid "Hide full address"
+msgstr ""
+
+#: wpcf7-twaddress.php:248
+msgid "Id attribute"
+msgstr ""
+
+#: wpcf7-twaddress.php:253
+msgid "Class attribute"
+msgstr ""
+
+#: wpcf7-twaddress.php:258
+msgid "Location Range"
+msgstr ""
+
+#. translators: %s is the line break for the placeholder of textareas.
+#: wpcf7-twaddress.php:266 wpcf7-twaddress.php:281
+#, php-format
+msgid "台北市%s台北市@中正區%s桃園市@龜山區|桃園區"
+msgstr ""
+
+#: wpcf7-twaddress.php:273
+msgid "Location Excluded"
+msgstr ""
+
+#: wpcf7-twaddress.php:295
+msgid "Insert Tag"
+msgstr ""
+
+#: wpcf7-twaddress.php:300
+#, php-format
+msgid ""
+"To use the value input through this field in a mail field, you need to "
+"insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Taiwan Address Selector Extension for Contact Form 7"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "To make a new tag for Contact Form 7 to add Taiwan address."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Huanyi Chuang"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://huanyichuang.com/"
+msgstr ""
